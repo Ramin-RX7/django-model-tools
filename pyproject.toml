@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "django-model-tools"
+name = "django-models-tools"
 version = "0.0.1"
 description = "Tools to help writing Django models easier and more convenient"
 license = {text = "LGPL"}
@@ -30,8 +30,8 @@ keywords = ["django", "utils"]
 packages = ["model_tools"]
 
 [project.urls]
-"Homepage" = "https://github.com/Ramin-RX7/django-model-tools"
-"Bug Tracker" = "https://github.com/Ramin-RX7/django-model-tools/issues"
-documentation = "https://github.com/Ramin-RX7/django-model-tools/wiki"
-repository = "https://github.com/Ramin-RX7/django-model-tools"
-changelog = "https://github.com/Ramin-RX7/django-model-tools/blob/master/CHANGELOG.md"
+"Homepage" = "https://github.com/Ramin-RX7/django-models-tools"
+"Bug Tracker" = "https://github.com/Ramin-RX7/django-models-tools/issues"
+documentation = "https://github.com/Ramin-RX7/django-models-tools/wiki"
+repository = "https://github.com/Ramin-RX7/django-models-tools"
+changelog = "https://github.com/Ramin-RX7/django-models-tools/blob/master/CHANGELOG.md"
